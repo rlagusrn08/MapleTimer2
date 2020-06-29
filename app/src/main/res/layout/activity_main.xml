@@ -98,7 +98,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="익스트림 물약"
+                        android:lines="1"
+                        android:singleLine="true"
+                        android:text="익스 골드"
                         android:textSize="14sp" />
 
                     <CheckBox
@@ -106,7 +108,8 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="비약 (경축,재획)"
+                        android:singleLine="true"
+                        android:text="경축,재획비"
                         android:textSize="14sp" />
 
                     <CheckBox
@@ -114,7 +117,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="MVP 쿠폰 (경뿌)"
+                        android:lines="1"
+                        android:singleLine="true"
+                        android:text="경뿌"
                         android:textSize="14sp" />
                 </TableRow>
 
